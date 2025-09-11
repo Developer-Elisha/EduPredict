@@ -1,0 +1,3 @@
+GitHub Link: https://github.com/Developer-Elisha/EduPredict
+
+Live Project Link: https://eudpredict.streamlit.app/
